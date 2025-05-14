@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Heart Attack Prediction - Machine Learning Project
 
  Project Overview
@@ -17,3 +18,7 @@ Run the following command in the project directory:
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+=======
+# Heart_attack_analysis
+Analyze the heart attack rate for the given patients with the data
+>>>>>>> 610921454c48e5d02a3831c77d3f6adc5d8a4da2
